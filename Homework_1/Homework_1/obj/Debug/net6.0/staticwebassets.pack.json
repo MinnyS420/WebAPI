@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\Homework_1\\Homework_1\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\Homework_1\\Homework_1\\wwwroot\\Script.js",
+      "PackagePath": "staticwebassets\\Script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Homework_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Homework_1.props",
+      "PackagePath": "build\\Homework_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Homework_1.props",
+      "PackagePath": "buildMultiTargeting\\Homework_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Homework_1.props",
+      "PackagePath": "buildTransitive\\Homework_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
