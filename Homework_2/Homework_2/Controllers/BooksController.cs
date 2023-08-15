@@ -12,7 +12,6 @@ namespace Homework2.Controllers
         {
             return Ok(StaticDb.Books);
         }
-
         [HttpGet("{index}")] //https://localhost:[port]/api/Books/{index}
         public IActionResult GetBookByIndex(int index)
         {
@@ -22,7 +21,6 @@ namespace Homework2.Controllers
             var book = StaticDb.Books[index];
             return Ok(book);
         }
-
         [HttpGet("filter")] //https://localhost:[port]/api/Books/filter?author={author}&title={title}
         public IActionResult GetBookByFilter([FromQuery] string author, 
                                              [FromQuery] string title)
@@ -40,7 +38,6 @@ namespace Homework2.Controllers
 
             return Ok(book);
         }
-
         [HttpPost] //https://localhost:[port]/api/Books
         public IActionResult AddNewBook([FromBody] Book newBook)
         {
