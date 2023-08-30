@@ -1,0 +1,11 @@
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.deps.json
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.AssemblyInfo.cs
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\refint\MoviesApp.Domain.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\obj\Debug\net6.0\ref\MoviesApp.Domain.dll

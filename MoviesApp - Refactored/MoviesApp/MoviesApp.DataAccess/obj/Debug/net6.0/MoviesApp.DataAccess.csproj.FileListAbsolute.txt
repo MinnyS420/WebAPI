@@ -1,0 +1,17 @@
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.deps.json
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.runtimeconfig.json
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.AssemblyInfo.cs
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.csproj.CopyComplete
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\refint\MoviesApp.DataAccess.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\MoviesApp.DataAccess.genruntimeconfig.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.DataAccess\obj\Debug\net6.0\ref\MoviesApp.DataAccess.dll

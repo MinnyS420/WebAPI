@@ -1,0 +1,17 @@
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.deps.json
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Domain.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.DTOs.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.Domain.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\bin\Debug\net6.0\MoviesApp.DTOs.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.AssemblyInfo.cs
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.csproj.CopyComplete
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\refint\MoviesApp.Mappers.dll
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\MoviesApp.Mappers.pdb
+C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Mappers\obj\Debug\net6.0\ref\MoviesApp.Mappers.dll
