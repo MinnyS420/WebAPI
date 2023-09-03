@@ -2027,11 +2027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj",
       "projectName": "MoviesApp.Helpers",
-      "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj",
+      "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Helpers\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Helpers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2053,11 +2053,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj"
+            "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj"
             },
-            "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj": {
-              "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj"
+            "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj": {
+              "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Services\\MoviesApp.Services.csproj"
             }
           }
         }

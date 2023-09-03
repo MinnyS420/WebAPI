@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbqJE5V3qRNgBiHESuuxqf2DpHw2MB0j2/smOwEFSOnSlUyaODVhdpLZQW5jzbM8lrV6N3EMy3wzC5wFNadB1Q==",
+  "dgSpecHash": "BryctmNvf+Ppr9heCi8WhXlCtSHNspSQdQ47Y3AJcMmLrctGiQM7Lcm1cpKokEYF0JkSzzl20KCLU2Q/1nlv7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MovisApp.DTOs\\MoviesApp.DTOs.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MovisApp.DTOs\\MoviesApp.DTOs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

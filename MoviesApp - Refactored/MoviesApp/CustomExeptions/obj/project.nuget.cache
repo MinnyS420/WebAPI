@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FIqVGnSiKHjora47PudHPGZfECcyWCpZZu0h0wsYIByhp0I1ryq6KBO7bRcb12XFHdzTm7x8+9fyTUnyQxzeWQ==",
+  "dgSpecHash": "Uk49ioiywgXez4T7JtOSmZ+R9ITQm+Rq07uv6s/ebM6oywtGWmZ0i1jQoya9y3TQNEU+VeGIwv23Vww0qHO+yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\CustomExeptions.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\CustomExeptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

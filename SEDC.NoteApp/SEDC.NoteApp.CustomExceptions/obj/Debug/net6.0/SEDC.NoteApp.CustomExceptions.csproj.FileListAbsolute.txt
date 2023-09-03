@@ -1,0 +1,11 @@
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\bin\Debug\net6.0\SEDC.NoteApp.CustomExceptions.deps.json
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\bin\Debug\net6.0\SEDC.NoteApp.CustomExceptions.dll
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\bin\Debug\net6.0\SEDC.NoteApp.CustomExceptions.pdb
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.AssemblyInfo.cs
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.dll
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\refint\SEDC.NoteApp.CustomExceptions.dll
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\SEDC.NoteApp.CustomExceptions.pdb
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\obj\Debug\net6.0\ref\SEDC.NoteApp.CustomExceptions.dll

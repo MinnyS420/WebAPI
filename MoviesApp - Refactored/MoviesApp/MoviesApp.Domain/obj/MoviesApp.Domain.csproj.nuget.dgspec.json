@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {}
+    "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {
+    "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj",
         "projectName": "MoviesApp.Domain",
-        "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj",
+        "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\MoviesApp.Domain.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

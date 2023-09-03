@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "woqjdno25KU27AwHUhUcPZMmJgu2moT/uwPnUpU62sB1LZ/ve9WV6DagFGeZfPPkhydDOeXfQfJUy8g9uAl1ew==",
+  "dgSpecHash": "5xfWFDBzWgW6W/jfKsa2f58Sl+MBZGw/bn7WKYAYuzP6W476EGY8WjNZ4FBygGRTrQYeCpDNyo0WMe8iV2c/Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp\\MoviesApp.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp\\MoviesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

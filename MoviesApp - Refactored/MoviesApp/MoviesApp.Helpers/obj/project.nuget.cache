@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "94Mzt2wNxcOa16oS8p8ERVf+9la3ZoF1sNXb0uiAgbAJ8odTIBOFykpoUhjSYLXf4PMVsBpQKh3kz0EmOdieDQ==",
+  "dgSpecHash": "Z/XM3sX6+ByVMFE8JxNTCmAjd/z0LzMBI7g0W98RDq3C1qrvXIqHEPsnHeZ5PzHynvqPXj+wNFtyGs3WFoHNGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Helpers\\MoviesApp.Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

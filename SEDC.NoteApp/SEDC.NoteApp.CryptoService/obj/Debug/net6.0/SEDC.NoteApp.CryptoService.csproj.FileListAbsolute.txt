@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\bin\Debug\net6.0\SEDC.NoteApp.CryptoService.deps.json
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\bin\Debug\net6.0\SEDC.NoteApp.CryptoService.dll
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\bin\Debug\net6.0\SEDC.NoteApp.CryptoService.pdb
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.AssemblyInfo.cs
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.dll
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\refint\SEDC.NoteApp.CryptoService.dll
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\SEDC.NoteApp.CryptoService.pdb
+C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CryptoService\obj\Debug\net6.0\ref\SEDC.NoteApp.CryptoService.dll

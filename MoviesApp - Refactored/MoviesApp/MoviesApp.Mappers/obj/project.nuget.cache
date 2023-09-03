@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "teHrCRfpExd+WNrlOHfV2+tbP6O7V+DFySoOvLSdnqwiSXm4TtBSUvP8l5CwxSELrcIhT4B/Dsn6cGXd3C6KuQ==",
+  "dgSpecHash": "WsjY1WLVbqj2HZIReK4kC0nbPmXEz7X19sZvSw/R4dsIKViEO0WFO9h602DgIcqd1mwexevrw6g0AneT6psIZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Mappers\\MoviesApp.Mappers.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.Mappers\\MoviesApp.Mappers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MoviesApp.Domain
-build_property.ProjectDir = C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\
+build_property.ProjectDir = C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\MoviesApp.Domain\
