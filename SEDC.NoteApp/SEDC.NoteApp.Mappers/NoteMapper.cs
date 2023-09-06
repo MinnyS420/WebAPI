@@ -1,5 +1,5 @@
 ﻿using SEDC.NoteApp.Domain.Models;
-using SEDC.NoteApp.DTOs;
+using SEDC.NoteApp.DTOs.NoteDto;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,0 +1,11 @@
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\bin\Debug\net6.0\MoviesApp.CustomExeptions.deps.json
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\bin\Debug\net6.0\MoviesApp.CustomExeptions.dll
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\bin\Debug\net6.0\MoviesApp.CustomExeptions.pdb
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\MoviesApp.CustomExeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\MoviesApp.CustomExeptions.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\MoviesApp.CustomExeptions.AssemblyInfo.cs
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\MoviesApp.CustomExeptions.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\MoviesApp.CustomExeptions.dll
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\refint\MoviesApp.CustomExeptions.dll
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\MoviesApp.CustomExeptions.pdb
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\ref\MoviesApp.CustomExeptions.dll

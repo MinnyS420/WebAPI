@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\CustomExeptions.csproj",
-      "projectName": "CustomExeptions",
-      "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\CustomExeptions.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\MoviesApp.CustomExeptions.csproj",
+      "projectName": "MoviesApp.CustomExeptions",
+      "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\MoviesApp.CustomExeptions.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\obj\\",
       "projectStyle": "PackageReference",

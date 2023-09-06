@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O8Z283j4cIMtTl1asRemSZZGY66aOt0n8auO1JEARhrsDezsZeWnTe+Fue6deqNobwssWKJYDzT6oFye7rUwKQ==",
+  "dgSpecHash": "HB198fJgfG8p3hocDU1y009xr02GYAAOK1zYI4Uoz8n6nMo78UW47kM4A14gS3Qu0+fFwuC1I2ASscRGkx8cnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.CryptoService\\SEDC.NoteApp.CryptoService.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.CryptoService\\SEDC.NoteApp.CryptoService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\commonservicelocator\\1.3.0\\commonservicelocator.1.3.0.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\xact.core.pcl\\0.0.5014\\xact.core.pcl.0.0.5014.nupkg.sha512"

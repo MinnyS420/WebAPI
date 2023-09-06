@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.Domain\\SEDC.NoteApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.Domain\\SEDC.NoteApp.Domain.csproj",
       "projectName": "SEDC.NoteApp.Domain",
-      "projectPath": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.Domain\\SEDC.NoteApp.Domain.csproj",
+      "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.Domain\\SEDC.NoteApp.Domain.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

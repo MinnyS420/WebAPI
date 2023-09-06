@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SEDC.NoteApp.CustomExceptions
-build_property.ProjectDir = C:\Users\marti\Desktop\code\All Repository\mkwd11-net-09-aspnetwebapi\G2\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\
+build_property.ProjectDir = C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\SEDC.NoteApp\SEDC.NoteApp.CustomExceptions\

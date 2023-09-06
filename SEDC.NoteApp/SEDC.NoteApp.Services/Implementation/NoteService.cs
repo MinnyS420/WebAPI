@@ -2,7 +2,7 @@
 using SEDC.NoteApp.DataAccess;
 using SEDC.NoteApp.DataAccess.Abstraction;
 using SEDC.NoteApp.Domain.Models;
-using SEDC.NoteApp.DTOs;
+using SEDC.NoteApp.DTOs.NoteDto;
 using SEDC.NoteApp.Mappers;
 using SEDC.NoteApp.Services.Abstraction;
 

@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
-using MoviesApp.Domain;
+using MoviesApp.Domain.Models;
 
 namespace MoviesApp.DataAccess.EntityImplementation
 {

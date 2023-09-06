@@ -9,3 +9,14 @@ C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\CustomExepti
 C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\refint\CustomExeptions.dll
 C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\CustomExeptions.pdb
 C:\Users\marti\Desktop\code\WebAPI\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\ref\CustomExeptions.dll
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\bin\Debug\net6.0\CustomExeptions.deps.json
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\bin\Debug\net6.0\CustomExeptions.dll
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\bin\Debug\net6.0\CustomExeptions.pdb
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\CustomExeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\CustomExeptions.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\CustomExeptions.AssemblyInfo.cs
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\CustomExeptions.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\CustomExeptions.dll
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\refint\CustomExeptions.dll
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\CustomExeptions.pdb
+C:\Users\marti\Desktop\code\WebAPI\WebAPI_Homework\MoviesApp - Refactored\MoviesApp\CustomExeptions\obj\Debug\net6.0\ref\CustomExeptions.dll

@@ -1,4 +1,4 @@
-﻿using SEDC.NoteApp.DTOs;
+﻿using SEDC.NoteApp.DTOs.UserDto;
 using System;
 using System.Collections.Generic;
 using System.Linq;

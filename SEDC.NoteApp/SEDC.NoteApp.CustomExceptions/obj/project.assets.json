@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.CustomExceptions\\SEDC.NoteApp.CustomExceptions.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.CustomExceptions\\SEDC.NoteApp.CustomExceptions.csproj",
       "projectName": "SEDC.NoteApp.CustomExceptions",
-      "projectPath": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.CustomExceptions\\SEDC.NoteApp.CustomExceptions.csproj",
+      "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.CustomExceptions\\SEDC.NoteApp.CustomExceptions.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.CustomExceptions\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.CustomExceptions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

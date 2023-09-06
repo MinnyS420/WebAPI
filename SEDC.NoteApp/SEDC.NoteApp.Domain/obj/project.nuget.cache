@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vrzrNC6yYZEEiNwu1kM8EuZTFoavRP+YNLHP/7KuezNTPsCtrikenAzLoBQgKXs6lkZrNrWfCJ45ANk0Z/Fuw==",
+  "dgSpecHash": "d0bca4IyOnEIrdOJ5Gre4ClsoRkb+MXdjH1i53+vy9yyRWMmgcCwU1vnzhWmVtq8/ooSf1nr99C/ri7W4yRmbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.Domain\\SEDC.NoteApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.Domain\\SEDC.NoteApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

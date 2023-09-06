@@ -3,7 +3,7 @@ using SEDC.NoteApp.CryptoService;
 using SEDC.NoteApp.CustomExceptions;
 using SEDC.NoteApp.DataAccess.Abstraction;
 using SEDC.NoteApp.Domain.Models;
-using SEDC.NoteApp.DTOs;
+using SEDC.NoteApp.DTOs.UserDto;
 using SEDC.NoteApp.Services.Abstraction;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;

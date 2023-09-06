@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFs3JxnaD6WkFSP07x15aozVzuyh8O8UYD3S+UeGeNCxOx7aevyyLOaV3WntJYPeg895l/LbifyB5fQHUnnH5w==",
+  "dgSpecHash": "rFcwP8knuWCW/JFoTnNb17NaUq3oVx1nWmD6tvN9IaHpN+S+ax2dN5GpiT0OjD3u5e/qIHr2+ohYhAO3UfWuyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.CustomExceptions\\SEDC.NoteApp.CustomExceptions.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.CustomExceptions\\SEDC.NoteApp.CustomExceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

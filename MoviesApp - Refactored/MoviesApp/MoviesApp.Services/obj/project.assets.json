@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "CommonServiceLocator/1.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
+            "related": ".pdb;.XML"
+          }
+        },
+        "runtime": {
+          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
+            "related": ".pdb;.XML"
+          }
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -738,14 +751,39 @@
           }
         }
       },
-      "CustomExeptions/1.0.0": {
+      "XAct.Core.PCL/0.0.5014": {
+        "type": "package",
+        "dependencies": {
+          "CommonServiceLocator": "1.3.0"
+        },
+        "compile": {
+          "lib/portable-win+net45+sl50+wp80/XAct.Core.PCL.dll": {}
+        },
+        "runtime": {
+          "lib/portable-win+net45+sl50+wp80/XAct.Core.PCL.dll": {}
+        }
+      },
+      "MoviesApp.CryptoService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "XAct.Core.PCL": "0.0.5014"
+        },
+        "compile": {
+          "bin/placeholder/MoviesApp.CryptoService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoviesApp.CryptoService.dll": {}
+        }
+      },
+      "MoviesApp.CustomExeptions/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/CustomExeptions.dll": {}
+          "bin/placeholder/MoviesApp.CustomExeptions.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CustomExeptions.dll": {}
+          "bin/placeholder/MoviesApp.CustomExeptions.dll": {}
         }
       },
       "MoviesApp.DataAccess/1.0.0": {
@@ -754,6 +792,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.21",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.21",
+          "MoviesApp.CryptoService": "1.0.0",
           "MoviesApp.Domain": "1.0.0"
         },
         "compile": {
@@ -803,6 +842,20 @@
     }
   },
   "libraries": {
+    "CommonServiceLocator/1.3.0": {
+      "sha512": "fbjO0SNwbOFPdwVfyqv+B7gIJ2CVBOFPKqn1mDDECK7KER8jFaOdcvroFYoAHa0ktPbxi5s+15qOLnA96f8GSA==",
+      "type": "package",
+      "path": "commonservicelocator/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "commonservicelocator.1.3.0.nupkg.sha512",
+        "commonservicelocator.nuspec",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.XML",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.pdb"
+      ]
+    },
     "Microsoft.CSharp/4.5.0": {
       "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
@@ -1965,10 +2018,27 @@
         "version.txt"
       ]
     },
-    "CustomExeptions/1.0.0": {
+    "XAct.Core.PCL/0.0.5014": {
+      "sha512": "r0rX5Dzr0mfUp8FtVnxXlv5w+cXhz6tHfQ79lf6naLB92J+h2wkGw0q6CfOa2FiveN2ahSflf6LB2G1cOx43AQ==",
+      "type": "package",
+      "path": "xact.core.pcl/0.0.5014",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/portable-win+net45+sl50+wp80/XAct.Core.PCL.dll",
+        "xact.core.pcl.0.0.5014.nupkg.sha512",
+        "xact.core.pcl.nuspec"
+      ]
+    },
+    "MoviesApp.CryptoService/1.0.0": {
       "type": "project",
-      "path": "../CustomExeptions/CustomExeptions.csproj",
-      "msbuildProject": "../CustomExeptions/CustomExeptions.csproj"
+      "path": "../CryptoService/MoviesApp.CryptoService.csproj",
+      "msbuildProject": "../CryptoService/MoviesApp.CryptoService.csproj"
+    },
+    "MoviesApp.CustomExeptions/1.0.0": {
+      "type": "project",
+      "path": "../CustomExeptions/MoviesApp.CustomExeptions.csproj",
+      "msbuildProject": "../CustomExeptions/MoviesApp.CustomExeptions.csproj"
     },
     "MoviesApp.DataAccess/1.0.0": {
       "type": "project",
@@ -1993,7 +2063,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CustomExeptions >= 1.0.0",
+      "MoviesApp.CustomExeptions >= 1.0.0",
       "MoviesApp.DTOs >= 1.0.0",
       "MoviesApp.DataAccess >= 1.0.0",
       "MoviesApp.Domain >= 1.0.0",
@@ -2033,8 +2103,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\CustomExeptions.csproj": {
-              "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\CustomExeptions.csproj"
+            "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\MoviesApp.CustomExeptions.csproj": {
+              "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\CustomExeptions\\MoviesApp.CustomExeptions.csproj"
             },
             "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj": {
               "projectPath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\MoviesApp - Refactored\\MoviesApp\\MoviesApp.DataAccess\\MoviesApp.DataAccess.csproj"
@@ -2079,5 +2149,27 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CommonServiceLocator 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CommonServiceLocator",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XAct.Core.PCL 0.0.5014' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XAct.Core.PCL",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

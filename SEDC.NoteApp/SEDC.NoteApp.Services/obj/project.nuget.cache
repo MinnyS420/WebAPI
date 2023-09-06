@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9seIMEYXGfyp6mwsso1cxAJfVGMCCVqhq2zLZo/uGMNQMMwu/6Cz0+DfwhNdOjAHkDlLcB6t6a1p7Q8ovSrGuQ==",
+  "dgSpecHash": "niLj61XTgrxQxYuw8FnhW8PS953Jh50dGyvpJaXhChrbIxLy/B4c3lsKxIJZlLr8dBXXbziRBfqxuZL9cakmvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\All Repository\\mkwd11-net-09-aspnetwebapi\\G2\\SEDC.NoteApp\\SEDC.NoteApp.Services\\SEDC.NoteApp.Services.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\code\\WebAPI\\WebAPI_Homework\\SEDC.NoteApp\\SEDC.NoteApp.Services\\SEDC.NoteApp.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\commonservicelocator\\1.3.0\\commonservicelocator.1.3.0.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",

@@ -1,5 +1,5 @@
-﻿using MoviesApp.Domain;
-using MoviesApp.DTOs;
+﻿using MoviesApp.Domain.Models;
+using MoviesApp.DTOs.MovieDto;
 
 namespace MoviesApp.Mappers
 {

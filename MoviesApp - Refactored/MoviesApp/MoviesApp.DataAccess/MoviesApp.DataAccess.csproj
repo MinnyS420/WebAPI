@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CryptoService\MoviesApp.CryptoService.csproj" />
     <ProjectReference Include="..\MoviesApp.Domain\MoviesApp.Domain.csproj" />
   </ItemGroup>
 

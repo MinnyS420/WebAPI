@@ -1,6 +1,6 @@
-﻿using MoviesApp.Domain;
-using MoviesApp.Domain.Enums;
-using MoviesApp.DTOs;
+﻿using MoviesApp.Domain.Enums;
+using MoviesApp.Domain.Models;
+using MoviesApp.DTOs.MovieDto;
 
 namespace MoviesApp.Services.Abstraction
 {

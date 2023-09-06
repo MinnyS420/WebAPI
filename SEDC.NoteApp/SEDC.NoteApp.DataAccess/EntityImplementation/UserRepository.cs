@@ -21,40 +21,33 @@ namespace SEDC.NoteApp.DataAccess.EntityImplementation
             _noteAppDbContext.Users.Add(entity);
             _noteAppDbContext.SaveChanges();
         }
-
-        public void Delete(User entity)
-        {
-            throw new NotImplementedException();
-        }
-
         public List<User> GetAll()
         {
             throw new NotImplementedException();
         }
-
         public User GetById(int id)
         {
             return _noteAppDbContext.Users
                         .SingleOrDefault(user => user.Id == id);
         }
-
         public void Update(User entity)
         {
             throw new NotImplementedException();
         }
-
+        public void Delete(User entity)
+        {
+            throw new NotImplementedException();
+        }
         public User GetUserByUsername(string username)
         {
             return _noteAppDbContext.Users.SingleOrDefault(user => user.Username == username);
         }
-
         public User LoginUser(string username, string hashedPassword)
         {
             return _noteAppDbContext.Users.FirstOrDefault(user =>
                         user.Username.ToLower() == username.ToLower() &&
                         user.Password == hashedPassword);
         }
-
         public void ChangePassword(User user)
         {
             _noteAppDbContext.Update(user);

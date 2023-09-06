@@ -1,12 +1,14 @@
 ﻿using CustomExeptions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using MoviesApp.Domain;
 using MoviesApp.Domain.Enums;
-using MoviesApp.DTOs;
+using MoviesApp.Domain.Models;
+using MoviesApp.DTOs.MovieDto;
 using MoviesApp.Services.Abstraction;
 
 namespace MoviesApp.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class MovieController : ControllerBase

@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CustomExeptions\CustomExeptions.csproj" />
+    <ProjectReference Include="..\CustomExeptions\MoviesApp.CustomExeptions.csproj" />
     <ProjectReference Include="..\MoviesApp.DataAccess\MoviesApp.DataAccess.csproj" />
     <ProjectReference Include="..\MoviesApp.Domain\MoviesApp.Domain.csproj" />
     <ProjectReference Include="..\MoviesApp.Mappers\MoviesApp.Mappers.csproj" />

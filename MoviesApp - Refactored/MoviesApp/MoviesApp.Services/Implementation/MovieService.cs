@@ -1,8 +1,8 @@
 ﻿using CustomExeptions;
 using MoviesApp.DataAccess;
-using MoviesApp.Domain;
 using MoviesApp.Domain.Enums;
-using MoviesApp.DTOs;
+using MoviesApp.Domain.Models;
+using MoviesApp.DTOs.MovieDto;
 using MoviesApp.Mappers;
 using MoviesApp.Services.Abstraction;
 

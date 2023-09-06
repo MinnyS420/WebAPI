@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SEDC.NoteApp.CustomExceptions;
-using SEDC.NoteApp.DTOs;
+using SEDC.NoteApp.DTOs.UserDto;
 using SEDC.NoteApp.Services.Abstraction;
 
 namespace SEDC.NoteApp.Api.Controllers
